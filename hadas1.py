@@ -1,0 +1,1 @@
+print("hello i will score century in seasonal ball cricket")
